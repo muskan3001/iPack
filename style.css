@@ -10,7 +10,7 @@ html{
 
 }
 .background{
-    background: url(/banner.jpg);
+    background: url(banner.jpg);
     background-size: cover;
 }
 .navbar{
