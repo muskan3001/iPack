@@ -68,7 +68,7 @@ html{
     
 }
 .background1{
-    background: url(/image/banner1.jpg);
+    background: url(/banner1.jpg);
     background-size: cover;
 }
 .home{
@@ -245,7 +245,7 @@ html{
     align-items: center;
     flex-direction: column;
     height: 400px;
-    background: url(/banner2.1.jpg) no-repeat center;
+    background: url(banner2.1.jpg) no-repeat center;
    background-color: transparent;
     background-size: cover;
    margin: 50px 30px;
